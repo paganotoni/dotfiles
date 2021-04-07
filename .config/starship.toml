@@ -1,0 +1,8 @@
+# with basic string
+format = """
+$username\
+$hostname\
+$directory\
+$git_branch\
+$git_status\
+$character"""
